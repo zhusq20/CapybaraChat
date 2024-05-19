@@ -1,0 +1,3 @@
+[MASTER]
+ignore = migrations
+disable = C0114, C0115, C0116, C0302, W0511, R1705, R1729, R0911, R0912, R0914, W0621
