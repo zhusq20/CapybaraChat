@@ -1,1 +1,1 @@
-CapybaraChat, an instant messaging system on wwebpage.
+CapybaraChat, an instant messaging system on webpage.
